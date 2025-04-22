@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theelebowski
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning html,css,js,c,c#,c++,java,python and react
+- 🌱 I’m currently learning html,css,js,c,c#,c++,java,python and react or you could say fullstack
 - 💞️ I’m looking to collaborate on nothing to be honest
 - 📫 How to reach me...dunno
 - 😄 Pronouns: Umm...
